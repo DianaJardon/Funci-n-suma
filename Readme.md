@@ -27,4 +27,4 @@ La suma de los 2 números enteros x & z se calcula como 2+3=5
 
 
 
-![](C:\Users\diana\AppData\Roaming\marktext\images\2022-03-24-22-55-48-image.png)
+![aliados](img/1.PNG)
